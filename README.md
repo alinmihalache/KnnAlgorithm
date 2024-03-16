@@ -1,1 +1,1 @@
-The values for each cluster can be changed, i use them for what i needed.
+Example of the decision with some given values.
